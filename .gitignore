@@ -1,0 +1,7 @@
+﻿################################################################################
+# この .gitignore ファイルは Microsoft(R) Visual Studio によって自動的に作成されました。
+################################################################################
+
+/IsConteinUnicodeCharacter.VC.VC.opendb
+/IsConteinUnicodeCharacter.VC.db
+/Release
